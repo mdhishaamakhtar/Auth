@@ -1,5 +1,7 @@
 # Authentication API
 
+[Documentation](https://documenter.getpostman.com/view/9876592/Szf82TZy)
+
 - Has a login route
 - Has a registration route
 - Has a dashboard route
